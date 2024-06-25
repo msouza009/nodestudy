@@ -1,0 +1,40 @@
+{
+  "lanches": [
+    {
+      "id": "1",
+      "nome": "X-Bacon",
+      "descricao": "Bacon, hambúrguer, queijo, alface, tomate e maionese"
+    },
+    {
+      "id": "2",
+      "nome": "X-Burger",
+      "descricao": "Hambúrguer, queijo, alface, tomate e maionese"
+    },
+    {
+      "id": "3",
+      "nome": "X-Egg",
+      "descricao": "Ovo, hambúrguer, queijo, alface, tomate e maionese"
+    },
+    {
+      "id": "4",
+      "nome": "X-Egg Bacon",
+      "descricao": "Ovo, bacon, hambúrguer, queijo, alface, tomate e maionese"
+    },
+    {
+      "id": "5",
+      "nome": "X-Frango",
+      "descricao": "Frango, queijo, alface, tomate e maionese"
+    },
+    {
+      "id": "6",
+      "nome": "X-Salada",
+      "descricao": "Alface, tomate, queijo, hambúrguer e maionese"
+    },
+    {
+      "id": "259d"
+    },
+    {
+      "id": "4826"
+    }
+  ]
+}
