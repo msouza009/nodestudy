@@ -6,7 +6,7 @@ console.log(`Running on http://${HOST}:${PORT}`);
 
 // POST
 fetch('http://localhost:3000/lanches', { 
-    method: 'PUT',
+    method: 'POST',
     headers: {
         'Content-Type': 'application/json'
     },
